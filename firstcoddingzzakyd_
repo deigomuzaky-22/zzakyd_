@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Saya - ZzakyD</title>
+</head>
+<body>
+        <img src="foto-profil.jpg" alt="foto profil saya"> 
+    <h1>Nama lengkap Anda</h1>
+    <P>siswa SMK yang tertarik dengan teknologi dan desain. Selamat datang di webite pertama saya!</p>
+    <a href="https://www.instagram.com/zzakyd_?igsh=ZzY5cHRxc2VmYjZy">Kunjungi Instagram Saya</a>
+    <button id="sapaButton">Sapa Saya!</button>
+  </div>
+</body>
+</html>
